@@ -6,6 +6,7 @@
 - https://ignite.microsoft.com/en-US/sessions/BRK100
 - https://ignite.microsoft.com/en-US/sessions/BRK102
 - https://ignite.microsoft.com/en-US/sessions/BRK110
+- https://ignite.microsoft.com/en-US/sessions/BRK115
 - https://ignite.microsoft.com/en-US/sessions/BRK119
 
 ### Github
