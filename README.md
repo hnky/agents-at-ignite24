@@ -35,4 +35,4 @@
 - https://ignite.microsoft.com/en-US/sessions/BRK182
 
 ## All AI session at Ignite
-- aka.ms/ignite/ai
+- https://aka.ms/ignite/ai
