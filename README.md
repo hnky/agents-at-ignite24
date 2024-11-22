@@ -33,3 +33,6 @@
 - https://ignite.microsoft.com/en-US/sessions/BRK167
 - https://ignite.microsoft.com/en-US/sessions/BRK169
 - https://ignite.microsoft.com/en-US/sessions/BRK182
+
+## All AI session at Ignite
+- aka.ms/ignite/ai
