@@ -14,6 +14,17 @@
 
 ## RAG at Microsoft Ignite24
 
+### Sessions
+
+- https://ignite.microsoft.com/en-US/sessions/BRK104
+- https://ignite.microsoft.com/en-US/sessions/BRK105
+- https://ignite.microsoft.com/en-US/sessions/BRK113
+- https://ignite.microsoft.com/en-US/sessions/BRK114
+
+### Github
+
+- https://github.com/Azure-Samples/contoso-chat (WRK401)
+
 ## Copilot Studio at Microsoft Ignite24
 
 ### Sessions
